@@ -7,8 +7,8 @@ app = Flask(__name__)
 
 # 数据库连接配置
 config = {
-    'user': 'zxcasdqwea',
-    'password': 'ljhawSu11523@#',
+    'user': '',
+    'password': '',
     'host': 'rm-0jl2y08crq122079fxo.mysql.rds.aliyuncs.com',
     'database': 'a_-1',
     'raise_on_warnings': True
